@@ -4,7 +4,7 @@
     "version": "0.1.0",
     "content_scripts": [
         {            
-            "matches": ["https://www.facebook.com/watch", "https://*.facebook.com/watch*"],
+            "matches": ["https://www.facebook.com/*"],
             "js": ["script.js"],
             "css": ["styles.css"]
         }
