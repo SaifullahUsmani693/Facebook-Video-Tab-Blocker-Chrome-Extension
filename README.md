@@ -2,8 +2,8 @@
 
 ## How To Use This Extension:
 
-* Go to chrome://extensions/ or edge://extensions/
-This extension is unpacked and you can add it to chrome/edge by enabling "Developer Mode" and selecting "Load Unpacked" option.
+* This extension is unpacked and you can add it to chrome/edge by going to chrome://extensions/ or edge://extensions/ and then
+enabling "Developer Mode" and selecting "Load Unpacked" option and selecting the source code folder.
 
 ## What Does it do:
 
